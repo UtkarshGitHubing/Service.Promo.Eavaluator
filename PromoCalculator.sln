@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromoCalculator", "PromoCalculator\PromoCalculator.csproj", "{781745FE-0656-48E7-BA1C-D3612F2103E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromoCalculator.Test", "PromoCalculator.Test\PromoCalculator.Test.csproj", "{72F1A55D-BD2A-450B-9374-74918DBD5CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781745FE-0656-48E7-BA1C-D3612F2103E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781745FE-0656-48E7-BA1C-D3612F2103E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781745FE-0656-48E7-BA1C-D3612F2103E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781745FE-0656-48E7-BA1C-D3612F2103E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F1A55D-BD2A-450B-9374-74918DBD5CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F1A55D-BD2A-450B-9374-74918DBD5CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F1A55D-BD2A-450B-9374-74918DBD5CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F1A55D-BD2A-450B-9374-74918DBD5CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D7B22C-4944-4079-A887-1A6031DB32A6}
+	EndGlobalSection
+EndGlobal

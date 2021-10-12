@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PromoCalculator/bin/Debug/net5.0
+/PromoCalculator/obj
+/PromoCalculator.Test/bin/Debug/net5.0
+/PromoCalculator.Test/obj
+/.vs
