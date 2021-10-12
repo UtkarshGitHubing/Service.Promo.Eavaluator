@@ -18,7 +18,7 @@ namespace PromoCalculator
     /// <summary>
     /// Defines the SkuItemsTable.
     /// </summary>
-    internal static readonly Hashtable SkuItemsTable = new Hashtable();
+    internal static readonly Hashtable SkuItemsTable = new();
 
     /// <summary>
     /// The Main.
